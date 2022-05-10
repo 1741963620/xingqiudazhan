@@ -1,0 +1,10 @@
+D:\D\C#\ass2_class\ass2_class\bin\Debug\ass2_class.exe.config
+D:\D\C#\ass2_class\ass2_class\bin\Debug\ass2_class.exe
+D:\D\C#\ass2_class\ass2_class\bin\Debug\ass2_class.pdb
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.csprojAssemblyReference.cache
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.Form1.resources
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.Properties.Resources.resources
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.csproj.GenerateResource.cache
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.csproj.CoreCompileInputs.cache
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.exe
+D:\D\C#\ass2_class\ass2_class\obj\Debug\ass2_class.pdb
